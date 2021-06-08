@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I’m currently working as Front End (or Frontend 🤔) Developer.
+- I love JavaScript and still working to learn on it. 
+
 <!--
 **senol-keskin/senol-keskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
